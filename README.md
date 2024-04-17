@@ -12,7 +12,9 @@ Verify dependencies:
 Clone repo and install node packages:
 
 ```bash
-git clone https://github.com/bootstrapt/nextjs-tutorial && cd nextjs-tutorial && npm -i
+git clone https://github.com/bootstrapt/nextjs-tutorial \
+&& cd nextjs-tutorial \
+&& npm -i
 ```
 
 ## Getting Started

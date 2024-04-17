@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## NextJS Tutorial
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) to help learn NextJS.
+
+## Installation
+
+Verify dependencies:
+
+- Node v20
+- git
+
+Clone repo and install node packages:
+
+```bash
+git clone https://github.com/bootstrapt/nextjs-tutorial && cd nextjs-tutorial && npm -i
+```
 
 ## Getting Started
 
